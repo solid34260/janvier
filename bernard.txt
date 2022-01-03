@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-yo les geeks
-=======
-yo les geeks
-geeks les yo
-<<<<<<< HEAD
->>>>>>> 36e0a43aab07de8cac38efcd4dfca770ff197341
-=======
-skeeg sel oy
->>>>>>> 58cf77b1fd3daaf65b3a8c6d56dd800d71b7c11c
+hey
